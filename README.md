@@ -11,6 +11,7 @@ O programa permite que o usuário escolha entre três tipos de algoritmos para a
 2.  **Caminhada Aleatória:** A cada passo, o algoritmo decide aleatoriamente entre subir ou ir para a direita, realizando 10 rodadas de teste.
 3.  **Caminhada Gulosa (Greedy):** A cada passo, o algoritmo analisa as células adjacentes (cima e direita) e escolhe a de menor custo.
 
+##
 ## 🛠️ Tecnologias Utilizadas
 * **Python 3.x**
 * Biblioteca `random` (para a caminhada aleatória)
