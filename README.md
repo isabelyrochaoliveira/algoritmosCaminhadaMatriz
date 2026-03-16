@@ -17,6 +17,7 @@ O programa permite que o usuário escolha entre três tipos de algoritmos para a
 * Biblioteca `random` (para a caminhada aleatória)
 * Biblioteca `copy` (para manipulação e exibição do mapa sem alterar os dados originais)
 
+##
 ## 📊 Funcionalidades
 * **Menu Interativo:** Seleção simples de algoritmos via console.
 * **Visualização de Progresso:** O mapa é exibido a cada 5 passos, marcando o caminho percorrido com `0` para facilitar a visualização.
