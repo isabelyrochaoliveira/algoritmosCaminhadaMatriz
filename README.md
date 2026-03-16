@@ -1,6 +1,6 @@
 # Algoritmos de Caminhada em Matriz (Trabalho de APR)
 
-Este projeto foi desenvolvido como parte da disciplina de Algoritmos e Programação de Computadores (APR). O objetivo é explorar diferentes estratégias de navegação em uma matriz 10x10 que representa um mapa de custos (Ilhas).
+Este projeto foi desenvolvido como parte da disciplina de Algoritmos e Programação (APR). O objetivo é explorar diferentes estratégias de navegação em uma matriz 10x10 que representa um mapa de custos (Ilhas).
 
 ## 🚀 Sobre o Projeto
 
